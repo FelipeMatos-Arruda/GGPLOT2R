@@ -32,6 +32,9 @@ Saída:
 
 O gráfico mostra uma relação negativa entre o tamanho do motor(displ) e a eficiência do combustível (hwy). Carros com motores maiores usam mais combustível.
 
+## Template de gráfico
+
+ggplot(data = seus dados) +
 
 
 
